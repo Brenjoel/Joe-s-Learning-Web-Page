@@ -1,0 +1,60 @@
+<html>
+<head>
+<title> Cloud Technology</title>
+</head>
+<body>
+<?php session_start();
+    // echo $_SESSION['email']; 
+    ?>
+<center>
+<br>
+<font face="Times new roman" size="6" color="blue">Welcome to the world of Cloud Technology</font>
+<br><br>
+<table border="5" cellspacing="10" cellpadding="25" height="1000" width="1000">
+<tr>
+<td>
+&nbsp &nbsp <img  border="11" align="left" align="top" src="images\cloud.jpg" height="100" width="100"> <h2> &emsp; <u>Cloud Computing </u></h2>
+<br>
+<br><br>
+Here you are going to learn about introduction to Cloud Computing.
+<br><br><b>INTENDED AUDIENCE	:</b> CSE,ECE,EE
+<br><b>PREREQUISITES		:</b> Basics of Computer Architecture and Organization, Networking
+<br><b>INDUSTRY SUPPORT	:</b> IT industries
+
+
+<br><br>
+<!-- Logged in? <a targer="_blank" href="  success.html" > <input type="button" value="Apply Here"></input></a>   -->
+ <center> <a targer="_blank" href="c1.php" > <input type="button" value="Apply now" name="Cloud Computing"></input></a> </center>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
+&nbsp &nbsp <img  border="11" align="left" align="top" src=" images\cloud ds.jpg" height="100" width="100">   <h2> &emsp; <u> Cloud Computing and Distributive Systems </u></h2>
+<br>
+<br><br><br><b>INTENDED AUDIENCE :</b> NIL 
+<br><b>PREREQUISITES :</b>
+<br><b> Minimum:</b> Data Structures and Algorithms
+<br><b>Ideal:</b> Computer Architecture, Basic OS and Networking concepts
+<br><b>INDUSTRY SUPPORT :</b> Companies like Amazon, Microsoft, Google, IBM, Facebook and start-ups working on this field.
+
+<br><br>
+<!-- Logged in? <a targer="_blank" href="  success.html" > <input type="button" value="Apply Here"></input></a>   -->
+ <center> <a targer="_blank" href="c2.php" > <input type="button" value="Apply now" name="Cloud Computing and Distributive Systems"></input></a> </center>
+</td>
+</tr>
+
+
+
+</table>
+</center>
+<br><br>
+<center>
+<a target="_blank" href=" ../project.html"><input type="button" value="Logout"></input></a>
+
+</center>
+<br><br><br>
+</body>
+</html>
